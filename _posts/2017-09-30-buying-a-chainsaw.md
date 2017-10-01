@@ -16,8 +16,17 @@ author:
 
 Here's our short list of chainsaw models for clearing land to build a cabin.
 We need something bigger than a garden saw, but aren't getting into full time logging.
+What model saw should I buy?
 
 <!--more-->
+
+## Short version
+
+- You should buy a gas-powered saw with at least 40cc engine and 18" bar.
+
+- Either buy a cheap new $160 random-brand saw and expect it to last the warranty period, or buy a Stihl model `MS-250` or higher, or a Husqvarna `440` or higher.
+
+- If you buy Stihl or Husky, you can buy used and get a brilliant saw at reasonable prices. Don't buy other brands used as they lack proper service networks to keep the saws in good condition.
 
 ## Basic specs needed
 
@@ -30,12 +39,13 @@ If you've got large trees and/or you are cutting hardwoods, displacement needs t
 You'll also want to choose a somewhat modern saw with *protection against kickback* and a brand with solid history and service network.
 
 ![If the top-half of the chainsaw tip gets caught, the chainsaw violently "kicks back", a chain break reduces risk of serious injury]({{ site.baseurl }}/public/assets/2017-09/chainbrake.png)
+*If the top-half of the chainsaw tip gets caught, the chainsaw violently "kicks back", a chain break reduces risk of serious injury*
 
 ## Brands
 
 You can go two directions here. You can choose a cheaper home-owner saw from a less well known brand, or you can choose a semi-professional saw. A new home owner saw with 18" bar, 40+cc engine and kickback protection will run you about $160.
 
-The alternative is to buy either German Stihl or Swedish Husqvarna ("Husky") semi-pro saws. These cost 2-3 times more, about $400-$600 for a Husky with the specifications we're looking for.
+The alternative is to buy either German Stihl or Swedish Husqvarna ("Husky") semi-pro saws. These cost 2-3 times more, about $300-$600 for a Husky with the specifications we're looking for.
 
 The benefit of the semi-pro saws is that, unlike Poulan and other homeowner brands, you can buy Stihl and Husky saws used.
 
